@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyerScraper", "Sku Lister\FlyerScraper.csproj", "{00E030CA-2727-475D-BFC0-F378A2ADD82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Debug|Default.Build.0 = Debug|Any CPU
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Release|Default.ActiveCfg = Release|Any CPU
+		{00E030CA-2727-475D-BFC0-F378A2ADD82F}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C115550-61B8-4D93-A11A-B249C92A9AC0}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
